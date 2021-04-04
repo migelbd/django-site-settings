@@ -20,8 +20,7 @@ setup(
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: MIT License",
-        "Operating System :: OS Independent",
+        "License :: OSI Approved :: MIT License"
     ],
     python_requires='>=3.6',
 )
