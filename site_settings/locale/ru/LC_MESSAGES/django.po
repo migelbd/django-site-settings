@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-04 16:12+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: site_settings/admin.py:10
+msgid "Clear cache"
+msgstr "Очистить кэш"
+
+#: site_settings/apps.py:7
+msgid "site settings"
+msgstr "настройки сайта"
+
+#: site_settings/models.py:13
+msgid "alias"
+msgstr "алиас"
+
+#: site_settings/models.py:14
+msgid "name"
+msgstr "имя"
+
+#: site_settings/models.py:15
+msgid "cache time"
+msgstr "время кэша"
+
+#: site_settings/models.py:16
+msgid "cache time in seconds (specify 0 to not cache)"
+msgstr "время кэша в секундах (укажите 0 что бы выключить)"
+
+#: site_settings/models.py:18
+msgid "load in template"
+msgstr "загружать в шаблонах"
+
+#: site_settings/models.py:20
+msgid "created_at"
+msgstr "создано"
+
+#: site_settings/models.py:21
+msgid "updated_at"
+msgstr "обновлено"
+
+#: site_settings/models.py:37 site_settings/models.py:42
+msgid "group"
+msgstr "группа"
+
+#: site_settings/models.py:38
+msgid "groups"
+msgstr "группы"
+
+#: site_settings/models.py:43
+msgid "value"
+msgstr "значение"
+
+#: site_settings/models.py:46
+msgid "Integer"
+msgstr "Числовое"
+
+#: site_settings/models.py:47
+msgid "String"
+msgstr "Строка"
+
+#: site_settings/models.py:48
+msgid "Boolean"
+msgstr "Булево"
+
+#: site_settings/models.py:49
+msgid "type of value"
+msgstr "тип значения"
+
+#: site_settings/models.py:52
+msgid "setting"
+msgstr "настройка"
+
+#: site_settings/models.py:53
+msgid "settings"
+msgstr "настройки"

@@ -8,10 +8,11 @@ setup(
     version="0.1",
     scripts=[],
     author="Mikhail Badrazhan",
-    author_email="migel.bd@gmail.com",
+    author_email="contact@devilweb.ru",
     description="Site settings management",
     long_description=long_description,
     install_requires=[
+        'django'
     ],
     long_description_content_type="text/markdown",
     url="https://github.com/migelbd/django-site-settings",
